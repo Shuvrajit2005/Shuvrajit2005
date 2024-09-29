@@ -55,7 +55,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Shuvrajit2005&theme=react&show_icons=true&rank_icon=github&hide_border=false&count_private=true" alt="Stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuvrajit2005&theme=react&hide_border=false&border_radius=5">
 </div>
-<br><br>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
-</div>
+<br>
